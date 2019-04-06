@@ -1,4 +1,4 @@
-## Why use Purify4J?
+## Why use Purify4J? ![Purify4J](https://img.shields.io/badge/Maven-Purify4J-green.svg)
 If you want to iterate over a collection is a easiest way to filtering, mapping and ordering. It is a cool way to manipulate collections in Java.
 ## How it works?
 It's easy to use. Just add `import static com.github.geekonjava.Refination.*;` in your class and that's it!
