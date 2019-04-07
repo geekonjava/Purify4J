@@ -11,7 +11,7 @@ First you need a Collection. Here we create a Animal List, and we called it anim
 
 Later you goes add a lot of animals in this list.
 
-Now, you want to take  _all_  cats, it's easy for Coollections! In this case, name is a method (`animal.name()`).
+Now, you want to take  _all_  cats, it's easy for Purify4J! In this case, name is a method (`animal.name()`).
 
     from(animals).where("name", eq("Cat")).all();
 
